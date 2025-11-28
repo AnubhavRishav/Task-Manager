@@ -2,6 +2,8 @@
 
 A modern task and employee management system built with React and TypeScript. This application provides a comprehensive dashboard for managing team members, tracking tasks, and monitoring project progress.
 
+---
+
 ## 📋 Table of Contents
 
 - [Features](#features)
